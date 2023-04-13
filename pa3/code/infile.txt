@@ -1,0 +1,5 @@
+as=life
+dom=obama
+biden=shayan
+=
+

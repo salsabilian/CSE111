@@ -1,0 +1,9 @@
+partnercheck: partner = "dbartoni"
+partnercheck: ./PARTNER: format OK:
+username = "dbartoni"
+passwd   = "*"
+uid      = "218658"
+gid      = "100"
+gecos    = "Dominic Renzo Bartoni"
+home     = "/afs/cats.ucsc.edu/users/d/dbartoni"
+shell    = "/bin/bash"
